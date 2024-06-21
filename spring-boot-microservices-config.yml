@@ -1,1 +1,1 @@
-my.greet.other: Hello Spring! from spring-boot-microservices-config specific file in git repo nnnnnnn
+my.greeting: Hello Spring! from spring-boot-microservices-config specific file in git repo
