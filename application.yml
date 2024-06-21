@@ -1,3 +1,5 @@
+my.greeting: Hello World!
+
 db:
   mongo:
     host: "http://mongohost"
