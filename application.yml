@@ -2,4 +2,4 @@ db:
   mongo:
     host: "http://mongohost"
     username: root
-    password: pass
+    password: pass2
